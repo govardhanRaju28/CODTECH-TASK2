@@ -8,7 +8,7 @@
 project name:
 analysis on movie reviews
 
-
+https://github.com/govardhanRaju28/CODTECH-TASK2/blob/2d08b21886117f198ea92ebe0f62015e9309fe65/Screenshot%20(114).png
 
 
 ### **Overview of the Sentiment Analysis Code**
