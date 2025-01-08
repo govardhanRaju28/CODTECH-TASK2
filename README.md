@@ -9,7 +9,8 @@ project name:
 analysis on movie reviews
 
 
-![image](https://github.com/user-attachments/assets/3689f3fd-05d3-43b5-9c4b-4f892658cc67)
+![image](https://github.com/user-attachments/assets/c8e8cea1-5407-4af2-812e-b876d1adae22)
+
 
 
 ### **Overview of the Sentiment Analysis Code**
