@@ -7,8 +7,7 @@
 **OVERVIEW OF PROJECT**:
 project name:
 analysis on movie reviews
-
-https://github.com/govardhanRaju28/CODTECH-TASK2/blob/2d08b21886117f198ea92ebe0f62015e9309fe65/Screenshot%20(114).png
+![image alt][(https://github.com/govardhanRaju28/CODTECH-TASK2/blob/371b1fa3f3e671a07f11d36b9ef7f3ce185cd641/movie%20review%20.png)]
 
 
 ### **Overview of the Sentiment Analysis Code**
